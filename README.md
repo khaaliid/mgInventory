@@ -1,0 +1,1 @@
+Spring Boot inventory management service
