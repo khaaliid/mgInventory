@@ -1,1 +1,1 @@
-Spring Boot inventory management service
+This is a test application using Spring Boot for a simple inventory management service
